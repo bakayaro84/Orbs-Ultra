@@ -1,0 +1,16 @@
+# Requirements pour Orbs Ultra - Version 2.1.0
+# Dépendances principales (production)
+numpy>=1.20.0
+matplotlib>=3.3.0
+
+# Dépendances de développement (optionnelles)
+# pip install orbs-ultra[dev]
+# pytest>=6.0
+# pytest-cov>=2.0
+# black>=21.0
+# flake8>=3.8
+
+# Dépendances de performance (optionnelles)
+# pip install orbs-ultra[performance]
+# numba>=0.50.0
+# scipy>=1.6.0
