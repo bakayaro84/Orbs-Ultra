@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ajouts spécifiques à Orbs Ultra
+*.log
+test_results/
+benchmark_outputs/
+compressed_blocks/
+reconstructed_data/
+performance_reports/
+
+# Données temporaires
+temp_orbits.csv
+temp_layers.json
+cache_dump.pkl
+
+Add Orbs Ultra specific gitignore rules
