@@ -31,7 +31,7 @@
 ## 📦 **Installation Rapide**
 
 ```bash
-pip install orbs
+pip install orbs-ultra
 ```
 
 ## 🎯 **Utilisation Simple**
@@ -136,4 +136,5 @@ print(f"Hit rate: {stats['hit_rate']:.1%}")
 ---
 
 **🚀 Orbs Ultra - Quand la performance rencontre l'excellence industrielle !**
+
 
